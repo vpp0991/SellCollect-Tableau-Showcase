@@ -1,6 +1,6 @@
 # CollectSell-Tableau-Showcase
 
-Hello! Welcome to my sample analysis for SellCollect a collector's marketplace
+Hello! Welcome to my sample analysis for SellCollect a collector's marketplace <br>
 Objective of exercise:
 Create a dashboard to improve and track the seller application process, from the first application to seller onboarding, with the aim of maximizing the number of successful onboardings while maintaining high seller quality standards.
 Dataset and exercise assumptions:
