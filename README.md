@@ -1,4 +1,4 @@
-# CollectSell-Tableau-Showcase
+# SellCollect -Tableau-Showcase
 
 Hello! Welcome to my sample analysis for SellCollect a collector's marketplace<br>
 
