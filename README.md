@@ -23,6 +23,7 @@ The following analysis will look to showcase the following skillset:
 - 📊 **Data Analytics Knowledge:** Ability to utilize 🐍 python and 🐼 pandas to clean and analyze data and the ability to create a Tableau dashboard
 - 🔥 **Providing Data-driven Insights:** Ability to dive into the root cause and provide actionable recommendations 
 
-[I'm a relative reference to a repository file](../blob/main/SellCollect%20Seller%20Onboarding%20Exercise.ipynb)
+[SellCollect Onboarding Exercise Analysis](https://github.com/Vibhesh91/SellCollect-Tableau-Showcase/blob/0089b7b1df7d8f7658a7eb381791301ad66ab734/SellCollect%20Seller%20Onboarding%20Exercise.ipynb)
+_Note: Best viewed on Google Chrome_
 
 _Disclaimer: This portfolio is for illustrative purposes to showcase analytical skills. The content is not business advice. The contents of this portfolio are not associated with any current employer or former employer and is solely used as a personal page_
