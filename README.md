@@ -26,4 +26,4 @@ The following analysis will look to showcase the following skillset:
 [SellCollect Onboarding Exercise Analysis](https://github.com/Vibhesh91/SellCollect-Tableau-Showcase/blob/0089b7b1df7d8f7658a7eb381791301ad66ab734/SellCollect%20Seller%20Onboarding%20Exercise.ipynb)
 _Note: Best viewed on Google Chrome_
 
-_Disclaimer: This portfolio is for illustrative purposes to showcase analytical skills. The content is not business advice. The contents of this portfolio are not associated with any current employer or former employer and is solely used as a personal page. All files were produced on Mac OS_
+_Disclaimer: This portfolio is for illustrative purposes. The content is not business advice. The contents of this portfolio are not associated with any current employer or former employer and is solely used as a personal page. All files were produced on Mac OS_
